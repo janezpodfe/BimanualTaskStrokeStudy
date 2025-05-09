@@ -30,6 +30,10 @@ To reproduce the statistical analyses, figures, and tables (Table 1 and Table 2)
    - The script processes the raw data, generates figures from the paper, and outputs data for Table 1 and Table 2.
    - Results are printed to the MATLAB console.
 
+## Unity visualization
+
+Unpack Unity.zip file which contains Unity project for visualization.
+
 ## HapticMaster Control
 
 Hapticmaster control model and logics for task performed by participants is in folder `/HM_control`. xPC simulink model is `HM_to_Unity_2013a.slx`. Model is started by runing `initall.m` matlab script, which starts the GUI and loads the model on xPC target computer.
